@@ -1,8 +1,10 @@
 body {
-    background-color: cadetblue;
+    background-image: linear-gradient(green, lightgreen);
     text-align: center;
+    background-attachment: fixed;
 }
 
 .flowers-img {
     width: 400px;
+    border-radius: 30px;
 }
